@@ -1,0 +1,25 @@
+.container{
+    padding:40px;
+    text-align:center;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    width:400px;
+    margin:auto;
+}
+
+input{
+    padding:12px;
+    border-radius:8px;
+}
+
+button{
+    padding:12px;
+    background:#6a1b9a;
+    color:white;
+    border:none;
+    border-radius:8px;
+}
